@@ -6,3 +6,5 @@ for _ in range(int(input())):
             print(x[i+1], end = " ")
         else:
             print("-1")
+
+#correction to be done
